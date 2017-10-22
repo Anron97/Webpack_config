@@ -1,0 +1,22 @@
+.holder {
+  position: absolute;
+  background-color: black;
+  opacity: .06;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.popup {
+  background-color: white;
+  box-shadow: 0 0 10px 2px black;
+  position: absolute;
+  display: block;
+  margin-left: -225px;
+  margin-top: -125px;
+  top: 50%;
+  left: 50%;
+  width: 550px;
+  padding: 20px 40px;
+}
